@@ -53,8 +53,7 @@ function Navbar() {
               <Link
                 to='/'
                 className='nav-links'
-                onClick={closeMobileMenu}
-              >
+                onClick={closeMobileMenu}>
                 <img src='/images/cart.jpeg' alt="cart" style={{ width: '40px', marginRight: '20px' }} />
               </Link>
             </li>
