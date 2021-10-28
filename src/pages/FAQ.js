@@ -14,11 +14,7 @@ function FAQ() {
       <div className="accordian">
         <FAQAccordian />
       </div>
-
       <Footer />
-
-
-
     </>
   );
 }
