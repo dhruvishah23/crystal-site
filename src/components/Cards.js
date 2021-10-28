@@ -15,6 +15,7 @@ function Cards() {
 
                     {/** row 1 of 6 */}
                     <Row>
+                    
                         {/**Col 1 of 5 */}
                         <Col>
                             <Card className="card border-0" style={{ width: '10rem'}}>
@@ -75,7 +76,7 @@ function Cards() {
 
                     {/** row 2 of 6 */ }
                     <Row>
-
+                        
                         {/**Col 1 of 5 */}
                         <Col>
                             <Card className="card border-0" style={{ width: '10rem' }}>
@@ -136,7 +137,7 @@ function Cards() {
 
                     {/** row 3 of 6  */ }
                     <Row>
-
+                        
                         {/**Col 1 of 5 */}
                         <Col>
                             <Card className="card border-0" style={{ width: '10rem' }}>
@@ -197,7 +198,7 @@ function Cards() {
 
                     {/** row 4 of 5  */  }
                     <Row>
-
+                        
                         {/**Col 1 of 5 */}
                         <Col>
                             <Card className="card border-0" style={{ width: '10rem' }}>
@@ -374,10 +375,7 @@ function Cards() {
                                 </Card.Body>
                             </Card>
                         </Col>
-
                     </Row>
-
-
                 </Container>
             </div>
 
