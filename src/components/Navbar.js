@@ -58,9 +58,7 @@ function Navbar() {
                 <img src='/images/cart.jpeg' alt="cart" style={{ width: '40px', marginRight: '20px' }} />
               </Link>
             </li>
-
           </ul>
-
         </div>
       </nav>
     </>
