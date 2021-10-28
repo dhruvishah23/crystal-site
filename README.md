@@ -6,11 +6,11 @@
 
 3. In the project directory, run: 
 
-**npm install**
+    **npm install**
 
 4. Then, run: 
 
-**npm start**
+    **npm start**
 
 Runs the app in the development mode.
 
