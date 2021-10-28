@@ -1,9 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-### TO RUN 
+# TO RUN
 
 1. Download the repository and unzip on your computer. 
 
@@ -17,5 +12,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `npm start`
 
 Runs the app in the development mode.\
+
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
