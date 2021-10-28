@@ -16,9 +16,6 @@ function HeroSection() {
       <Link to="/products">
         <button className="hero-button" >VIEW ALL PRODUCTS</button>
       </Link>
-
-
-
     </div>
   );
 }
