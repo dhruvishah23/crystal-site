@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### TO RUN 
 
-1. Download the folder and unzip on your computer. 
+1. Download the repository and unzip on your computer. 
 
 2. Then open up Command Prompt and navigate to the project directory
 
