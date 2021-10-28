@@ -5,6 +5,7 @@
 2. Then open up Command Prompt and navigate to the project directory
 
 3. In the project directory, run: 
+
 **npm install**
 
 4. Then, run: 
