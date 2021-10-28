@@ -5,11 +5,11 @@
 2. Then open up Command Prompt and navigate to the project directory
 
 3. In the project directory, run: 
-## npm install
+**npm install**
 
 4. Then, run: 
 
-## npm start
+**npm start**
 
 Runs the app in the development mode.
 
